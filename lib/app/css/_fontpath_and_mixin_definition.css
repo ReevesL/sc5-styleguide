@@ -1,5 +1,5 @@
 $fa-font-path: '{{{appRoot}}}/assets/fonts';
-$fa-version: '4.5.0';
+$fa-version: '4.2.0';
 @import 'components/font-awesome/font-awesome.css';
 /*@import 'bourbon';*/
 
